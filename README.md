@@ -26,6 +26,6 @@ Technologies: Next.js, React, TypeScript, Tailwind CSS
 🤝 Let's Connect
 
 LinkedIn:  [Afolabi Ademolu](https://www.linkedin.com/in/afolabi-ademolu-0984ab171/)
-Email:      [ademolulanre@gmail.com](mailto:ademolulanre@gmail.com)
+Email: [Send me an email](https://mail.google.com/mail/?view=cm&fs=1&to=ademolulanre@gmail.com)
 
 I'm open to frontend development opportunities, collaborations and projects that solve real-world problems.
